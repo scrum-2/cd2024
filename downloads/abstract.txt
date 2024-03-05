@@ -1,0 +1,4 @@
+\begin{abstract}
+這是位於 scrum-2 個人倉儲 cd2024 downloads 目錄下的 abstract.txt, 因為 scrum-2 學號為 41123199, 且在期中分組報告中負責編寫專題摘要.
+這個 .txt 可以從 https://mdecd2024.github.io/test-ag1/41123199/downloads/abstract.txt 擷取, 且納入分組報告 pdf 中的 abstract 可由 41123199 組員進行控制.
+\end{abstract}
